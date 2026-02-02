@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ### Hi there, I'm Shivansh! 👋<br><br>I am a **Pre-final Year Computer Science** undergraduate with a "hands-on first" approach to engineering.<br><br>I am a **DevOps Enthusiast** and an **Open Source Contributor** who loves deconstructing cloud-native tools to understand how they work. My primary weapon of choice is **Go (Golang)**, which I use to build efficient, scalable systems.<br><br>- 🔭 I’m currently contributing to **Cloud Native projects** .<br>- ⚙️ **Tech Stack:** Go, Kubernetes, Docker, CI/CD, Linux.<br>- 🌱 I’m currently exploring **distributed systems** and **platform engineering**.<br>- ⚡ **Fun fact:** I debug, therefore I write.
 
 
